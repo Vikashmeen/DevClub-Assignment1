@@ -1,0 +1,61 @@
+body{
+    color: rgb(0, 0, 0);
+    background: white;
+    align-items: center;
+}
+
+
+h1{ 
+    color: rgb(60, 255, 11);
+    text-overflow: ellipsis 5px;
+    outline: black;
+    text-shadow: black 0 2px 2px 0;
+    text-align: center;
+    border: inset 5px rgb(44, 47, 233);
+    background: black;
+}    
+
+img{ width: 1500px;
+     border-radius: 30px;
+     width: 80%;
+     height: 500px;
+}
+#symptoms {
+     
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+#symptoms td, #symptoms th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#symptoms th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }  
+  #symptoms tr:nth-child(even){background-color: #f2f2f2;}
+
+  #symptoms tr:hover {background-color: #ddd;}
+td{
+    text-align-last: center;
+
+}  
+ul {
+    background: aliceblue;
+    padding: 20px;
+  }
+  p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14{
+    margin: 20px;
+}
+
+
+
+
+
+
+
+  

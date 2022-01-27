@@ -1,0 +1,39 @@
+img{
+    border-radius: 1px;
+    height: 500px;
+    width: 1500px;
+}
+body{
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to left,#33ccff 0%,#ff33a2 100%);
+    align-items: center;
+}
+h1{
+    color: rgb(60, 255, 11);
+    text-overflow: ellipsis 5px;
+    outline: black;
+    text-shadow: black 0 2px 2px 0;
+    text-align: center;
+    border: inset 5px rgb(44, 47, 233);
+}
+ul{
+    list-style-type: square;
+    margin: 5px;
+    background: #33ccff;
+    padding: 20px;
+}
+p1{
+    margin: 20px;
+}
+p2{
+    margin: 20px;
+}
+p3{
+    margin: 20px;
+}
+p4{
+    margin: 20px;
+}
+p5{
+    margin: 20px;
+}

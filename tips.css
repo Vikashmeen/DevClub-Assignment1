@@ -1,0 +1,31 @@
+img{
+    border-radius: 1px;
+    height: 500px;
+    width: 1500px;
+    
+}
+body{
+    color: rgb(0, 0, 0);
+    background: white;
+    align-items: center;
+}
+h1{ 
+    color: rgb(60, 255, 11);
+    text-overflow: ellipsis 5px;
+    outline: black;
+    text-shadow: black 0 2px 2px 0;
+    text-align: center;
+    border: inset 5px rgb(44, 47, 233);
+    background: black;
+}
+p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13{   margin: 20px;
+}
+
+
+ul{
+    list-style-type: square;
+    margin: 5px;
+    background: aliceblue;
+    padding: 20px;
+}
+
